@@ -1,12 +1,107 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920.193" height="1054.854" viewBox="0 0 1920.193 1054.854">
-  <defs>
-    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#361cc1"/>
-      <stop offset="1" stop-color="#2e82ef"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="footer-bg.svg"
+   id="svg12"
+   version="1.1"
+   viewBox="0 0 1920.193 1054.854"
+   height="1054.854"
+   width="1920.193">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg12"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="527.427"
+     inkscape:cx="590.28859"
+     inkscape:zoom="0.53275895"
+     showgrid="false"
+     id="namedview14"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs7">
+    <linearGradient
+       gradientUnits="objectBoundingBox"
+       x2="0.5"
+       y1="1"
+       x1="0.5"
+       id="linear-gradient">
+      <stop
+         id="stop2"
+         stop-color="#361cc1"
+         offset="0" />
+      <stop
+         id="stop4"
+         stop-color="#2e82ef"
+         offset="1" />
     </linearGradient>
+    <linearGradient
+       y2="-405.31176"
+       gradientTransform="scale(1.3491998,0.74118008)"
+       x2="301.63546"
+       y1="1017.897"
+       x1="301.63546"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient841"
+       xlink:href="#linear-gradient"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-483.25534"
+       gradientTransform="scale(1.3492459,0.74115477)"
+       x2="294.52749"
+       y1="939.80776"
+       x1="294.52749"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient843"
+       xlink:href="#linear-gradient"
+       inkscape:collect="always" />
   </defs>
-  <g id="Group_111" data-name="Group 111" transform="translate(0.13 -6328.591)">
-    <path id="Path_195" data-name="Path 195" d="M1367.063,374.808s-85.855-337.77-386.677-270.232-439.4,0-538.268-145.16-352-126.953-574.629-79.205S-434.941-141.322-553.13-300.409c0,.029.052,1054.854.052,1054.854H1367.047Z" transform="translate(553 6629)" opacity="0.11" fill="url(#linear-gradient)"/>
-    <path id="Path_194" data-name="Path 194" d="M1357.421,316.985S1271.128,25.525,971.495,90.593s-437.666,0-536.141-139.852S86.839-193.9-141.188-137.578s-380-116.481-421.437-220.589c.1,8-.016,1054.71-.016,1054.71H1357.406Z" transform="translate(562.61 6686.902)" fill="url(#linear-gradient)"/>
+  <g
+     transform="matrix(1.5360202,0,0,1,0.19968263,-6326.591)"
+     data-name="Group 111"
+     id="Group_111">
+    <path
+       style="fill:url(#linearGradient841)"
+       fill="url(#linear-gradient)"
+       opacity="0.11"
+       transform="translate(553,6629)"
+       d="m 1367.063,374.808 c 0,0 -85.855,-337.77 -386.677,-270.232 -300.822,67.538 -439.4,0 -538.268,-145.16 -98.868,-145.16 -352,-126.953 -574.629,-79.205 -222.629,47.748 -302.43,-21.533 -420.619,-180.62 0,0.029 0.052,1054.854 0.052,1054.854 h 1920.125 z"
+       data-name="Path 195"
+       id="Path_195" />
+    <path
+       style="fill:url(#linearGradient843)"
+       fill="url(#linear-gradient)"
+       transform="translate(562.61,6686.902)"
+       d="m 1357.421,316.985 c 0,0 -86.293,-291.46 -385.926,-226.392 -299.633,65.068 -437.666,0 -536.141,-139.852 -98.475,-139.852 -348.515,-144.641 -576.542,-88.319 -228.027,56.322 -380,-116.481 -421.437,-220.589 0.1,8 -0.016,1054.71 -0.016,1054.71 h 1920.047 z"
+       data-name="Path 194"
+       id="Path_194" />
   </g>
 </svg>
