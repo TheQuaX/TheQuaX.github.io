@@ -8,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="banner-bg.svg"
-   id="svg16"
-   version="1.1"
-   viewBox="0 0 1920.183 1075.636"
+   width="1920.183"
    height="1075.636"
-   width="1920.183">
+   viewBox="0 0 1920.183 1075.636"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="banner-bg.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -27,104 +27,105 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="svg16"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:cy="537.81799"
-     inkscape:cx="2137.5125"
-     inkscape:zoom="0.53276173"
-     showgrid="false"
-     id="namedview18"
-     inkscape:window-height="1017"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="0.53276173"
+     inkscape:cx="1404.875"
+     inkscape:cy="687.97893"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
   <defs
      id="defs9">
     <linearGradient
-       gradientUnits="objectBoundingBox"
-       y2="1"
-       x2="0.5"
+       id="linear-gradient"
        x1="0.5"
-       id="linear-gradient">
+       x2="0.5"
+       y2="1"
+       gradientUnits="objectBoundingBox">
       <stop
-         id="stop2"
+         offset="0"
          stop-color="#361cc1"
-         offset="0" />
+         id="stop2" />
       <stop
-         id="stop4"
+         offset="1"
          stop-color="#2e82ef"
-         offset="1" />
+         id="stop4" />
     </linearGradient>
     <clipPath
        id="clip-path">
       <path
-         fill="url(#linear-gradient)"
-         transform="translate(533 329)"
-         d="M-533.031,278.516s95.269,204.193,401.21,161.147,419.656-32.1,544.188,96.892,343.977,107.54,572.909,67.066,360.19,68.158,401.79,142.968c.041-2.4-.074-1075.621-.074-1075.621l-1920,.011Z"
+         id="Path_199"
          data-name="Path 199"
-         id="Path_199" />
+         d="M-533.031,278.516s95.269,204.193,401.21,161.147,419.656-32.1,544.188,96.892,343.977,107.54,572.909,67.066,360.19,68.158,401.79,142.968c.041-2.4-.074-1075.621-.074-1075.621l-1920,.011Z"
+         transform="translate(533 329)"
+         fill="url(#linear-gradient)" />
     </clipPath>
     <linearGradient
-       y1="-439.63275"
-       gradientTransform="scale(1.3360992,0.74844743)"
-       y2="997.52364"
-       x2="319.5891"
-       x1="319.5891"
-       gradientUnits="userSpaceOnUse"
+       inkscape:collect="always"
+       xlink:href="#linear-gradient"
        id="linearGradient845"
-       xlink:href="#linear-gradient"
-       inkscape:collect="always" />
-    <linearGradient
-       y1="-439.61356"
-       gradientTransform="scale(1.3360815,0.74845734)"
-       y2="997.50374"
-       x2="319.60769"
-       x1="319.60769"
        gradientUnits="userSpaceOnUse"
-       id="linearGradient847"
+       x1="319.5891"
+       x2="319.5891"
+       y2="997.52364"
+       gradientTransform="scale(1.3360992,0.74844743)"
+       y1="-439.63275" />
+    <linearGradient
+       inkscape:collect="always"
        xlink:href="#linear-gradient"
-       inkscape:collect="always" />
+       id="linearGradient847"
+       gradientUnits="userSpaceOnUse"
+       x1="319.60769"
+       x2="319.60769"
+       y2="997.50374"
+       gradientTransform="scale(1.3360815,0.74845734)"
+       y1="-439.61356" />
   </defs>
   <g
-     transform="matrix(2.4740954,0,0,1.1652527,0.22019449,-0.7834431)"
+     id="Group_112"
      data-name="Group 112"
-     id="Group_112">
+     transform="matrix(2.4740954,0,0,1.31268,0.22019449,3.8329466)">
     <path
-       style="fill:url(#linearGradient845)"
-       fill="url(#linear-gradient)"
-       opacity="0.11"
-       transform="translate(533,329)"
-       d="m -533.089,278.364 c 0,0 100.43,239.944 401.206,191.477 300.776,-48.467 442.068,9.577 537.63,114.941 95.562,105.364 352.091,94.329 580.987,52.374 228.896,-41.955 363.166,41.794 400.36,109.438 0.016,0.016 -0.373,-1075.609 -0.373,-1075.609 l -1919.766,-0.027 z"
+       id="Path_195"
        data-name="Path 195"
-       id="Path_195" />
-    <path
-       style="fill:url(#linearGradient847)"
-       fill="url(#linear-gradient)"
+       d="m -533.089,278.364 c 0,0 100.43,239.944 401.206,191.477 300.776,-48.467 442.068,9.577 537.63,114.941 95.562,105.364 352.091,94.329 580.987,52.374 228.896,-41.955 363.166,41.794 400.36,109.438 0.016,0.016 -0.373,-1075.609 -0.373,-1075.609 l -1919.766,-0.027 z"
        transform="translate(533,329)"
-       d="m -533.031,278.516 c 0,0 95.269,204.193 401.21,161.147 305.941,-43.046 419.656,-32.1 544.188,96.892 124.532,128.992 343.977,107.54 572.909,67.066 228.932,-40.474 360.19,68.158 401.79,142.968 0.041,-2.4 -0.074,-1075.621 -0.074,-1075.621 l -1920,0.011 z"
+       opacity="0.11"
+       fill="url(#linear-gradient)"
+       style="fill:url(#linearGradient845)" />
+    <path
+       id="Path_194"
        data-name="Path 194"
-       id="Path_194" />
+       d="m -533.031,278.516 c 0,0 95.269,204.193 401.21,161.147 305.941,-43.046 419.656,-32.1 544.188,96.892 124.532,128.992 343.977,107.54 572.909,67.066 228.932,-40.474 360.19,68.158 401.79,142.968 0.041,-2.4 -0.074,-1075.621 -0.074,-1075.621 l -1920,0.011 z"
+       transform="translate(533,329)"
+       fill="url(#linear-gradient)"
+       style="fill:url(#linearGradient847)" />
     <g
-       clip-path="url(#clip-path)"
+       id="Mask_Group_6"
        data-name="Mask Group 6"
-       id="Mask_Group_6">
+       clip-path="url(#clip-path)">
       <path
-         opacity="0.14"
-         stroke-width="128"
-         stroke="#361cc1"
-         fill="none"
-         transform="translate(522,366.416)"
-         d="m -496.368,321.285 c 0,0 174.242,-392.046 817.433,-255.032 643.191,137.014 869.415,77.467 1056.161,-463.982"
+         id="Path_4"
          data-name="Path 4"
-         id="Path_4" />
+         d="m -496.368,321.285 c 0,0 174.242,-392.046 817.433,-255.032 643.191,137.014 869.415,77.467 1056.161,-463.982"
+         transform="translate(522,366.416)"
+         fill="none"
+         stroke="#361cc1"
+         stroke-width="128"
+         opacity="0.14" />
     </g>
   </g>
 </svg>
