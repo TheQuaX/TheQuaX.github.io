@@ -1,0 +1,96 @@
+﻿.logo{
+	color: orangered;
+	text-align:	center;
+	margin: 25px;
+	width: 100%-25px;
+	border: 3px solid grey;
+	border-radius:10px;
+}
+
+.logo h1{
+	text-shadow: 1px, 1px, white;
+}
+
+h1{
+
+}
+
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.description {
+	margin-top: 100px;
+	margin-bottom: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.navbar {
+	padding: 10px;
+	margin: 25px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar ul {
+	list-style-type: none;
+	margin: 0;
+	overflow: hidden;
+	background-color: #333;
+	border-radius: 5px;
+  }
+  
+ .navbar li {
+	float: left;
+  }
+  
+ .navbar li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+ .navbar li a:hover {
+	background-color: rgb(255, 166, 0);
+	font-weight: bold;
+  }
+
+.navbar .active {
+	background-color: rgb(255, 123, 0);
+	font-weight: bolder;
+}
+
+body{
+	background-color: #151515;
+	font-family:inherit;
+	color: white;
+}
+
+
+label {
+	font-family: Arial, Helvetica, sans-serif;
+	display: block;
+	margin-bottom: 5px;
+	margin-top: 25px;
+	font-size: large;
+}
+
+input{
+	border: 2px solid rgb(172, 83, 0);
+	border-radius: 10px;
+	background-color: #151515;
+	color: #ffffff;
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 250px;
+	height: 25px;
+	font-size: large;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type=submit] {
+	margin-top: 25px;
+	width: 270px;
+	height: 50px;
+}
