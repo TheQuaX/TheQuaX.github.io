@@ -8,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="logo-2.svg"
-   id="svg15"
-   version="1.1"
-   viewBox="0 0 111.196 30.566"
+   width="111.196"
    height="30.566"
-   width="111.196">
+   viewBox="0 0 111.196 30.566"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata19">
     <rdf:RDF>
@@ -27,103 +27,101 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="svg15"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:cy="62.141092"
-     inkscape:cx="229.27804"
-     inkscape:zoom="1.6263405"
-     showgrid="false"
-     id="namedview17"
-     inkscape:window-height="1017"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
-     bordercolor="#666666"
+     inkscape:document-rotation="0"
      pagecolor="#ffffff"
-     inkscape:document-rotation="0" />
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="1.6263405"
+     inkscape:cx="229.27804"
+     inkscape:cy="62.141092"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15" />
   <defs
      id="defs7">
     <linearGradient
-       gradientUnits="objectBoundingBox"
+       id="linear-gradient"
+       x1="0.5"
+       x2="1.275"
        y2="0.725"
-       x2="1.275"
-       x1="0.5"
-       id="linear-gradient">
+       gradientUnits="objectBoundingBox">
       <stop
-         id="stop2"
+         offset="0"
          stop-color="#fe8464"
-         offset="0" />
+         id="stop2" />
       <stop
-         id="stop4"
+         offset="1"
          stop-color="#fe6e9a"
-         offset="1" />
+         id="stop4" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="17.44467"
-       x2="103.6919"
-       y1="17.44467"
-       x1="37.224873"
-       id="linearGradient855"
-       xlink:href="#linear-gradient-9"
-       inkscape:collect="always"
-       gradientTransform="translate(-11.372283,0.41818884)" />
-    <linearGradient
-       gradientUnits="objectBoundingBox"
+       id="linear-gradient-9"
+       x1="0.5"
+       x2="1.275"
        y2="0.72500002"
-       x2="1.275"
-       x1="0.5"
-       id="linear-gradient-9">
+       gradientUnits="objectBoundingBox">
       <stop
-         id="stop2-9"
+         offset="0"
          stop-color="#fe8464"
-         offset="0" />
+         id="stop2-9" />
       <stop
-         id="stop4-2"
+         offset="1"
          stop-color="#fe6e9a"
-         offset="1" />
+         id="stop4-2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient-9"
+       id="linearGradient869"
+       x1="37.224873"
+       y1="17.44467"
+       x2="103.6919"
+       y2="17.44467"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient875"
+       x1="0.5"
+       x2="1.275"
+       y2="0.72500002"
+       gradientUnits="objectBoundingBox">
+      <stop
+         offset="0"
+         stop-color="#fe8464"
+         id="stop871" />
+      <stop
+         offset="1"
+         stop-color="#fe6e9a"
+         id="stop873" />
     </linearGradient>
     <linearGradient
        gradientUnits="userSpaceOnUse"
-       y2="17.44467"
-       x2="103.6919"
-       y1="17.44467"
-       x1="37.224873"
-       id="linearGradient869"
+       y2="15.85635"
+       x2="67.459351"
+       y1="15.85635"
+       x1="40.27953"
+       id="linearGradient852"
        xlink:href="#linear-gradient-9"
        inkscape:collect="always" />
-    <linearGradient
-       gradientUnits="objectBoundingBox"
-       y2="0.72500002"
-       x2="1.275"
-       x1="0.5"
-       id="linearGradient875">
-      <stop
-         id="stop871"
-         stop-color="#fe8464"
-         offset="0" />
-      <stop
-         id="stop873"
-         stop-color="#fe6e9a"
-         offset="1" />
-    </linearGradient>
   </defs>
   <text
-     transform="scale(0.93713195,1.0670856)"
-     id="text854"
-     y="27.429129"
-     x="25.373972"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:25.1337px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Bold Condensed';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient855);fill-opacity:1;stroke:none;stroke-width:0.628342;stroke-opacity:1;"
+     id="text844"
+     y="21.52071"
+     x="40.158123"
+     style="font-style:normal;font-weight:bold;font-size:15.54px;line-height:1.25;font-family:'Agency FB';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient852);fill-opacity:1;stroke:none;stroke-width:0.3885;-inkscape-font-specification:'Agency FB Bold Condensed';font-stretch:condensed;font-variant:normal;"
      xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Bold Condensed';fill:url(#linearGradient855);fill-opacity:1;stroke:none;stroke-width:0.628342;stroke-opacity:1;"
-       id="tspan856"
-       y="27.429129"
-       x="25.373972"
-       sodipodi:role="line">TheQuaX</tspan></text>
+       style="stroke-width:0.3885;fill:url(#linearGradient852);fill-opacity:1;-inkscape-font-specification:'Agency FB Bold Condensed';font-family:'Agency FB';font-weight:bold;font-style:normal;font-stretch:condensed;font-variant:normal;"
+       y="21.52071"
+       x="40.158123"
+       id="tspan842"
+       sodipodi:role="line">AM.</tspan></text>
 </svg>
