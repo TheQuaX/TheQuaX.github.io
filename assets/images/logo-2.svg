@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="logo-2.svg"
+   sodipodi:docname="logo.svg"
    id="svg15"
    version="1.1"
    viewBox="0 0 111.196 30.566"
@@ -65,16 +65,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="17.44467"
-       x2="103.6919"
-       y1="17.44467"
-       x1="37.224873"
-       id="linearGradient855"
-       xlink:href="#linear-gradient-9"
-       inkscape:collect="always"
-       gradientTransform="translate(-11.372283,0.41818884)" />
-    <linearGradient
        gradientUnits="objectBoundingBox"
        y2="0.72500002"
        x2="1.275"
@@ -113,17 +103,26 @@
          stop-color="#fe6e9a"
          offset="1" />
     </linearGradient>
+    <linearGradient
+       gradientTransform="translate(2,2)"
+       inkscape:collect="always"
+       xlink:href="#linear-gradient-9"
+       id="linearGradient852"
+       x1="40.27953"
+       y1="15.85635"
+       x2="67.459351"
+       y2="15.85635"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <text
-     transform="scale(0.93713195,1.0670856)"
-     id="text854"
-     y="27.429129"
-     x="25.373972"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:25.1337px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Bold Condensed';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient855);fill-opacity:1;stroke:none;stroke-width:0.628342;stroke-opacity:1;"
-     xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Bold Condensed';fill:url(#linearGradient855);fill-opacity:1;stroke:none;stroke-width:0.628342;stroke-opacity:1;"
-       id="tspan856"
-       y="27.429129"
-       x="25.373972"
-       sodipodi:role="line">TheQuaX</tspan></text>
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:24px;line-height:1.25;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Bold Condensed';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient852);fill-opacity:1;stroke:none;stroke-width:0.3885"
+     x="42.158123"
+     y="23.52071"
+     id="text844"><tspan
+       sodipodi:role="line"
+       id="tspan842"
+       x="42.158123"
+       y="23.52071"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:24px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Bold Condensed';fill:url(#linearGradient852);fill-opacity:1;stroke-width:0.3885">AM.</tspan></text>
 </svg>
