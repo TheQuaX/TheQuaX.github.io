@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="about-shape-2.svg"
-   id="svg12"
-   version="1.1"
-   viewBox="0 0 871.654 897.389"
+   width="871.654"
    height="897.389"
-   width="871.654">
+   viewBox="0 0 871.654 897.389"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="about-shape-2.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -26,59 +26,60 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="svg12"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:cy="528.30213"
-     inkscape:cx="3.8731035"
-     inkscape:zoom="0.33488308"
-     showgrid="false"
-     id="namedview14"
-     inkscape:window-height="1017"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.33488308"
+     inkscape:cx="3.8731035"
+     inkscape:cy="528.30213"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
   <defs
      id="defs7">
     <linearGradient
-       gradientUnits="objectBoundingBox"
-       y2="1"
-       x2="0.5"
+       id="linear-gradient"
        x1="0.5"
-       id="linear-gradient">
+       x2="0.5"
+       y2="1"
+       gradientUnits="objectBoundingBox">
       <stop
-         id="stop2"
+         offset="0"
          stop-color="#33c8c1"
-         offset="0" />
+         id="stop2" />
       <stop
-         id="stop4"
+         offset="1"
          stop-color="#119bd2"
-         offset="1" />
+         id="stop4" />
     </linearGradient>
   </defs>
   <path
-     sodipodi:type="star"
-     style="fill:#f2f2f2;stroke-width:1.757"
-     id="path18"
-     sodipodi:sides="3"
-     sodipodi:cx="485.24399"
-     sodipodi:cy="443.43835"
-     sodipodi:r1="405.29044"
-     sodipodi:r2="202.6452"
-     sodipodi:arg1="-0.26463654"
-     sodipodi:arg2="0.78256101"
-     inkscape:flatsided="false"
-     inkscape:rounded="0"
-     inkscape:randomized="0"
-     d="M 876.4253,337.4312 628.94175,586.32303 381.45821,835.21489 289.65335,496.44193 197.84845,157.66897 537.13687,247.5501 Z"
-     inkscape:transform-center-x="-193.77679"
+     transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,535.4233,487.01186)"
      inkscape:transform-center-y="-28.907627"
-     transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,863.4233,487.01186)" />
+     inkscape:transform-center-x="-193.77679"
+     d="M 876.4253,337.4312 628.94175,586.32303 381.45821,835.21489 289.65335,496.44193 197.84845,157.66897 537.13687,247.5501 Z"
+     inkscape:randomized="0"
+     inkscape:rounded="0"
+     inkscape:flatsided="false"
+     sodipodi:arg2="0.78256101"
+     sodipodi:arg1="-0.26463654"
+     sodipodi:r2="202.6452"
+     sodipodi:r1="405.29044"
+     sodipodi:cy="443.43835"
+     sodipodi:cx="485.24399"
+     sodipodi:sides="3"
+     id="path18"
+     style="fill:#f9f9f9;stroke-width:1.757"
+     sodipodi:type="star" />
 </svg>
