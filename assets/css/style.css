@@ -1037,10 +1037,10 @@ p {
 
 .counter-wrapper {
   padding-left: 70px; }
-  @media only screen and (min-width: 992px) and (max-width: 1440) {
+  @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .counter-wrapper {
       padding-left: 0; } }
-  @media only screen and (min-width: 768px) and (max-width: 1440px) {
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
     .counter-wrapper {
       padding-left: 0; } }
   @media (max-width: 767px) {
@@ -1211,13 +1211,13 @@ p {
   content: '';
   bottom: 0;
   left: 0;
-  height: 100%;
+  height: 70%;
   width: 100%;
   background-image: url(../images/footer-bg.svg);
   background-position: top center;
   z-index: -1;
   background-size: cover; }
-  @media only screen and (min-width: 1921px) {
+  @media only screen and (min-width: 2500px) {
     .footer-area::before {
       height: 1120px; } }
 
